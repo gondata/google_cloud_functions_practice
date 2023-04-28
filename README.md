@@ -20,3 +20,4 @@ In order to add new packages to our new virtual environment we create a file cal
 ```
 pip install -r requirements.txt
 ```
+.
